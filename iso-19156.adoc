@@ -1,0 +1,21 @@
+= ISO AWI 19156 Edition 2
+ISO AWI 19156 Edition 2
+:doctype: abstract-specification-topic
+:encoding: utf-8
+:lang: en
+:toc:
+:numbered:
+:sectanchors:
+:status: published
+:committee: technical
+:version: 2.0.0
+:mn-document-class: iso
+:local-cache-only:
+:data-uri-image:
+
+[lutaml_uml_datamodel_description,models/ISO 19156 Edition 2.xmi]
+----
+[.diagram_include_block, base_path="models/Images", format="emf"]
+...
+...
+----
