@@ -4,6 +4,4 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# gem "rails"
-
-gem "metanorma-cli", "~> 1.4"
+gem "metanorma-cli"

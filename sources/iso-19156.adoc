@@ -75,12 +75,13 @@ This document provides descriptions to the ISO 19156 models.
 
 == Content
 
-[lutaml_uml_datamodel_description,models/ISO 19156 Edition 2.xmi]
+[lutaml_uml_datamodel_description,../models/ISO 19156 Edition 2.xmi]
 ----
-[.diagram_include_block, base_path="models/Images", format="png"]
+[.diagram_include_block, base_path="../models/Images", format="png"]
 ...
 ...
 ----
 
 [bibliography]
 == Bibliography
+

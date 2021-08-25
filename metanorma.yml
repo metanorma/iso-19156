@@ -1,0 +1,10 @@
+---
+metanorma:
+  source:
+    files:
+      - sources/iso-19156.adoc
+
+  collection:
+    organization: "ISO"
+    name: "ISO 19156 in model-driven standard format"
+
