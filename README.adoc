@@ -19,6 +19,7 @@ The ISO/TC 211 Harmonized Model is openly available:
 https://github.com/ISO-TC211/HMMG/blob/master/EA/ISOTC211_HM.eap
 
 Export options:
+
 image::ea-export-options.png[]
 
 == Usage
