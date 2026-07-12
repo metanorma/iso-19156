@@ -1,0 +1,115 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO 19156 in model-driven standard format</title><contributor><role type='author'/><organization><name>ISO</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Geographic information — Observations, measurements and samples</title>
+  <title language="en" type="title-intro">Geographic information</title>
+  <title language="en" type="title-main">Observations, measurements and samples</title>
+  <title language="fr" type="main">Informations géographiques — Observations, mesures et échantillons</title>
+  <title language="fr" type="title-intro">Informations géographiques</title>
+  <title language="fr" type="title-main">Observations, mesures et échantillons</title>
+  <uri type="xml">./documents/iso-19156.xml</uri>
+  <uri type="pdf">./documents/iso-19156.pdf</uri>
+  <uri type="doc">./documents/iso-19156.doc</uri>
+  <uri type="html">./documents/iso-19156.html</uri>
+  <uri type="rxl">./documents/iso-19156.rxl</uri>
+  <docidentifier type="ISO" primary="true">ISO/AWI 19156:2021</docidentifier>
+  <docidentifier type="iso-reference">ISO/AWI 19156:2021(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:19156:stage-20.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/AWI 19156</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/AWI 19156:2021(E)</docidentifier>
+  <docnumber>19156</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision type="Technical committee" subtype="TC">
+        <name>Geographic information/Geomantics</name>
+        <identifier>TC 211</identifier>
+        <identifier type="full">TC 211/WG 9</identifier>
+      </subdivision>
+      <subdivision type="Workgroup" subtype="WG">
+        <name>Information management</name>
+        <identifier>WG 9</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>secretariat</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision type="Secretariat">
+        <name>SIS</name>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision type="Technical committee" subtype="TC">
+        <name>Geographic information/Geomantics</name>
+        <identifier>TC 211</identifier>
+        <identifier type="full">TC 211/WG 9</identifier>
+      </subdivision>
+      <subdivision type="Workgroup" subtype="WG">
+        <name>Information management</name>
+        <identifier>WG 9</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="AWI">20</stage>
+    <substage>00</substage>
+  </status>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext schema-version="v1.1.2">
+    <doctype>international-standard</doctype>
+    <flavor>iso</flavor>
+    <structuredidentifier>
+      <project-number>ISO 19156</project-number>
+    </structuredidentifier>
+    <stagename abbreviation="AWI">International Standard</stagename>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
